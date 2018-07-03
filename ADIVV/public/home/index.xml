@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Academic</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>Biography Adi Maciel is a financial analyst at Positivo Tecnologia, where his work is focused on Investor Relations and Treasury Areas. He is responsible for market analysis, development and analysis of economic scenarios, report of financial results to the company&amp;rsquo;s investors, hedge controlling, hedge planning, forecasting and report of monthly and annual results.
+Education  Federal University of Paraná (2014 - Expected 2018&amp;frasl;02) - Statistics.  Professional Experiences  Positivo Tecnologia (2017 - Current) - Investor Relations &amp;amp; Treasury.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

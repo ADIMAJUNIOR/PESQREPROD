@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530582330289.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3469377874",
+    "id" : "E5BADC4B",
+    "lastKnownWriteTime" : 1530584457,
+    "last_content_update" : 1530584457320,
+    "path" : "C:/Users/85171/Desktop/ADIVV/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "57,27",
+        "scrollLine" : "52"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
