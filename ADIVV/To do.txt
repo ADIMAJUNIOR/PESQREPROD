@@ -1,0 +1,3 @@
+-Tentar resolver B.O do CSS que não solta imagem no updog
+-Download GIT para Desktop
+-Familiarizar com GIT para Desktop
